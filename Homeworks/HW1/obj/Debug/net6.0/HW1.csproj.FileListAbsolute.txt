@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\bin\Debug\net6.0\HW1.exe
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\bin\Debug\net6.0\HW1.deps.json
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\bin\Debug\net6.0\HW1.runtimeconfig.json
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\bin\Debug\net6.0\HW1.dll
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\bin\Debug\net6.0\HW1.pdb
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.dll
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\refint\HW1.dll
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.pdb
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
+C:\Users\Master\Desktop\GB\программирование\SEM_C#\Homeworks\HW1\obj\Debug\net6.0\ref\HW1.dll
