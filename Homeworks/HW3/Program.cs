@@ -12,7 +12,7 @@
 // int cnt = Convert.ToInt32(Console.ReadLine());
 // GetQuad(cnt);
 
-//задание 21 прога принимает координаты 2 точек
+// задание 21 прога принимает координаты 2 точек
 // и ищет расстояние между ними
 // double FindDist(double x1, double y1, double z1, double x2, double y2, double z2)
 // {
