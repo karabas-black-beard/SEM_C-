@@ -57,7 +57,7 @@
 // System.Console.WriteLine(FindNum(a));
 
 
-задача 4 число n и выдает n!
+//задача 4 число n и выдает n!
 int FindF(int a)
 {
     int f = 1;
