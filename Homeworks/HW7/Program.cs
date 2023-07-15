@@ -96,7 +96,7 @@ for (int i = 0; i < rows; i++)
 {
     for (int j = 0; j < cols; j++)
     {
-        arr[i, j] = new Random().Next(0, 101);
+        arr[i, j] = new Random().Next(0, 10);
     }
 }
 return arr;
@@ -125,13 +125,16 @@ PrArr(myArr);
 void PrSum(int[,] myArr)
 {
    int sum=0;
+   double res=0;
     for (int j=0; j<cols; j++)
     {
          for (int i=0; i<rows; i++)
          {
             sum=sum + myArr [i, j];
-         }
+         }  
+         res=(double)sum/rows;   
          System.Console.WriteLine($"сумма столбца {j}: {sum} ");
+         System.Console.WriteLine($"ср.арифм.: {Math.Round(res, 2)} ");
          sum=0;
     }
    
